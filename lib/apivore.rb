@@ -1,5 +1,5 @@
 require 'json-schema'
-require 'rspec'
+require 'rspec/core'
 require 'apivore/rspec_matchers'
 require 'apivore/rspec_helpers'
 require 'apivore/swagger_checker'
